@@ -1,0 +1,3 @@
+/home/zsy/code/test/build/CMakeFiles/rebuild_cache.dir
+/home/zsy/code/test/build/CMakeFiles/edit_cache.dir
+/home/zsy/code/test/build/CMakeFiles/demo01.dir
